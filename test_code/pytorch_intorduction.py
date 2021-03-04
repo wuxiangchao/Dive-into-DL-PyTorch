@@ -1,4 +1,5 @@
-for i in range(10):
-    print("hello world")
-    print("world")
-    print("Test")
+from matplotlib import pyplot as plt
+
+class Solution(object):
+    def __init__(self):
+        
